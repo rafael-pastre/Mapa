@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pin.png</file>
+        <file>PinBlack.png</file>
+        <file>MapPin.qml</file>
+        <file>MapPin.js</file>
+    </qresource>
+</RCC>
